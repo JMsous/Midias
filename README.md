@@ -1,2 +1,2 @@
-# M-dias
+# Midias
 Mídias para obsidian
